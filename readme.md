@@ -1,6 +1,6 @@
 # About My Portfolio
 
-This portfolio website is a showcase of my achievements, crafted using HTML, CSS, and JavaScript. Here's a quick overview:
+This portfolio website is a showcase of my achievements, crafted using HTML, CSS, and JavaScript.
 
 ## Features
 - **About Me:** Get to know me, my background, and interests.
