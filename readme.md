@@ -20,7 +20,7 @@ This portfolio website is a showcase of my achievements, crafted using HTML, CSS
 
 No installation is required to use this web application. Simply open the `index.html` file in a modern web browser.
 
-# **Contribute:** 
+# **Contribute** 
 
 Feel free to fork and create pull requests.
 
